@@ -1,0 +1,6 @@
+node_modules
+.next
+.workflow-data
+next-env.d.ts
+*.tsbuildinfo
+/.swc
